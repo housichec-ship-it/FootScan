@@ -1,0 +1,1 @@
+// ScanRecord model stub
